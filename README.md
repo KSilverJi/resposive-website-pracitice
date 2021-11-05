@@ -1,9 +1,5 @@
 <div align="center">
   
-### 🍺 교내웹개발동아리 _ 프론트엔드 🍺
-
-## [1차 세미나] styled-component로 반응형 구현하기 이론 및 실습
-  
 </div>
 
 </br>
