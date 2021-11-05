@@ -39,6 +39,10 @@ const Logo = styled.div`
   border-radius: 50%;
   background-color: white;
   margin: 20px 10%;
+  transition: transform 250ms;
+  :hover {
+    transform: translateY(-10px);
+  }
   img {
     position: relative;
     top: 25%;
@@ -49,6 +53,7 @@ const Logo = styled.div`
   ${media.tablet`
   margin: 10px;
   `}
+
 `;
 
 const Circle = () => {

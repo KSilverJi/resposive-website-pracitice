@@ -42,6 +42,20 @@ const Thumb = styled.img`
   ${media.tablet`
   display: none;
   `}
+  /* transition: opacity 1s ease;
+  :hover {
+    opacity: 0.5;
+  } */
+
+  @keyframes ghost {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.5;
+    }
+  }
+  animation : ghost 1s infinite;
 `;
 
 const Text = styled.div`
