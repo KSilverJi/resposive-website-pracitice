@@ -1,5 +1,8 @@
 <div align="center">
   
+  1초간 로딩 보여주기, mousehover 시 이펙트 구현했습니다.
+  + 아래쪽 로고에도 애니메이션 추가
+  
 </div>
 
 </br>
